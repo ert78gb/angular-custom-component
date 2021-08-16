@@ -1,0 +1,9 @@
+:host(.ng-touched.ng-invalid) {
+  input {
+    border-color: red;
+  }
+
+  .invalid-feedback {
+    display: block;
+  }
+}
